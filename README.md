@@ -1,7 +1,4 @@
-# Install Packages Script for Termux
-
-This script installs a list of commonly used and useful packages for **Termux** on your Android device. It is designed to make the installation of development tools, network tools, and handy utilities easy.
-
+# Packages Script for Termux
 ## Features
 
 - **Automatic installation of packages**: The script installs multiple popular packages with a single command.
